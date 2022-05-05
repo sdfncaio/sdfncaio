@@ -1,16 +1,50 @@
-### Hi there 👋
+<div>
+  <img align="right" alt="Caio-Pic" height="150" src="https://media.discordapp.net/attachments/700872171160993812/971795198453628978/caio_img.jpeg?width=422&height=422">
+</div>
 
-<!--
-**sdfncaio/sdfncaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+### Olá! Eu sou o sdfncaio 👋
 
-Here are some ideas to get you started:
+- 👨‍🔧 Atualmente me encontro desempregado.
+- 👨‍🎓 Estudo desenvolvimento FullStake na Digital Innovation One.
+- 💻 Stakes que eu estudo: JavaScript, React, NodeJS, MySQL, HTML e CSS.
+- 📱 Meu Instagram é @caio_m1
+- ⛪ Sou Cristão.
+  
+ </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <!---
+ GitHub stats 
+ -->
+  
+<div align="center">
+  <a href="https://github.com/sdfncaio">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sdfncaio&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdfncaio&layout=compact&langs_count=7&theme=jolly"/>
+    
+</div>
+  
+ <!---
+ Skills
+ -->
+      
+
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+  
+  ##
+  
+ <!---
+  Redes Socias 
+    -->
+  <div>
+  <a href="https://instagram.com/caio_m1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/caio-martins-33ba641b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href = "mailto:sdfncaio6@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   </div>
+  
+ ![Snake animation](https://github.com/sdfncaio/sdfncaio/blob/output/github-contribution-grid-snake.svg)
