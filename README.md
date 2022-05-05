@@ -1,8 +1,4 @@
 <div>
-  <img align="right" alt="Caio-Pic" height="150" src="https://media.discordapp.net/attachments/700872171160993812/971795198453628978/caio_img.jpeg?width=422&height=422">
-</div>
-
-<div>
 ### Olá! Eu sou o sdfncaio 👋
 
 - 👨‍🔧 Atualmente me encontro desempregado.
