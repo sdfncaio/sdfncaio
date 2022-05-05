@@ -3,7 +3,7 @@
 
 - 👨‍🔧 Atualmente me encontro desempregado.
 - 👨‍🎓 Estudo desenvolvimento FullStake na Digital Innovation One.
-- 💻 Stakes que eu estudo: JavaScript, React, NodeJS, MySQL, HTML e CSS.
+- 💻 Skills que eu estudo: JavaScript, React, NodeJS, MySQL, HTML e CSS.
 - 📱 Meu Instagram é @caio_m1
 - ⛪ Sou Cristão.
   
